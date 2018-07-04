@@ -20,5 +20,12 @@
     "express": "^4.16.3",
     "mongodb": "^3.1.0",
     "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1"
   }
 }
